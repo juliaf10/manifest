@@ -1,0 +1,12 @@
+<?xml version="1.0" econding="UTF-8"?>
+<manifest>
+	<remote fetch="https://github.com/juliaf10" name="origin"/>
+	<default remote="origin" sync-j="4" revision="master"/>
+
+	<project name="repository1" path="path1"/>
+	<project name="repository2" path="path2"/>
+  <project name="repository3" path="path3"/>
+	<project name="repository4" path="path4"/>
+  <project name="repository5" path="path5"/>
+	<project name="repository6" path="path6"/>
+</manifest>
