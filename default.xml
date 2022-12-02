@@ -1,6 +1,6 @@
 <manifest>
 <remote name="origin" fetch="https://github.com/juliaf10"/>
-<default revision="master" remote="origin" sync-j="4"/>
+<default revision="main" remote="origin" sync-j="4"/>
 <project name="repository1" remote="origin" path="path1"/>
 <project name="repository2" remote="origin" path="path2"/>
 </manifest>
